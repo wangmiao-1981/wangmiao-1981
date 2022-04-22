@@ -2,9 +2,9 @@
 - 👀 I’m interested in aPaas、Java Entprise、cc'd modeling
 - 📫 wangmiao_1981@sina.com
 
-FocusOnNow:
-1 micro verifiction
-2 confluence archiver
+- FocusOnNow:
+- 1 vCertification
+- 2 Confluence-Space-Archiver
 
 <!---
 wangmiao-1981/wangmiao-1981 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
